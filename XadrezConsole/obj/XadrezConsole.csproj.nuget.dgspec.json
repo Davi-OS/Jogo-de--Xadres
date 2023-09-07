@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Chadres\\XadrezConsole\\XadrezConsole.csproj": {}
+    "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Xadres\\XadrezConsole\\XadrezConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Chadres\\XadrezConsole\\XadrezConsole.csproj": {
+    "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Xadres\\XadrezConsole\\XadrezConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Chadres\\XadrezConsole\\XadrezConsole.csproj",
+        "projectUniqueName": "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Xadres\\XadrezConsole\\XadrezConsole.csproj",
         "projectName": "XadrezConsole",
-        "projectPath": "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Chadres\\XadrezConsole\\XadrezConsole.csproj",
+        "projectPath": "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Xadres\\XadrezConsole\\XadrezConsole.csproj",
         "packagesPath": "C:\\Users\\davio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Chadres\\XadrezConsole\\obj\\",
+        "outputPath": "C:\\Users\\davio\\OneDrive\\Documentos\\CloneGit\\Jogo de  Xadres\\XadrezConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

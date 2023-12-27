@@ -1,8 +1,10 @@
-﻿using System;
+﻿using Jogo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using tabuleiro;
 using XadrezConsole.tabuleiro;
 
@@ -33,7 +35,7 @@ namespace XadrezConsole.View
         }
         public static void imprimirPeca(Peca p)
         {
-            if(p.cor == Cor.Branca)
+            if (p.cor == Cor.Branca)
             {
                 Console.Write(p);
             }
@@ -42,8 +44,16 @@ namespace XadrezConsole.View
                 ConsoleColor aux = Console.ForegroundColor;
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.Write(p);
-                Console.ForegroundColor = aux;  
+                Console.ForegroundColor = aux;
             }
+        }
+        public static PosicaoXadrez lerPosicaoXadrez()
+        {
+            string s = Console.ReadLine();
+            char coluna = s[0];
+            int linha = int.Parse(s[1] + "");
+
+            return new PosicaoXadrez(coluna, linha);
         }
     }
 }

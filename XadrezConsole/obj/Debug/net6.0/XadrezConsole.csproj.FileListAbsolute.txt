@@ -12,3 +12,17 @@ C:\Users\davio\OneDrive\Documentos\CloneGit\Jogo de  Xadres\XadrezConsole\obj\De
 C:\Users\davio\OneDrive\Documentos\CloneGit\Jogo de  Xadres\XadrezConsole\obj\Debug\net6.0\XadrezConsole.pdb
 C:\Users\davio\OneDrive\Documentos\CloneGit\Jogo de  Xadres\XadrezConsole\obj\Debug\net6.0\XadrezConsole.genruntimeconfig.cache
 C:\Users\davio\OneDrive\Documentos\CloneGit\Jogo de  Xadres\XadrezConsole\obj\Debug\net6.0\ref\XadrezConsole.dll
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\bin\Debug\net6.0\XadrezConsole.exe
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\bin\Debug\net6.0\XadrezConsole.deps.json
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\bin\Debug\net6.0\XadrezConsole.runtimeconfig.json
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\bin\Debug\net6.0\XadrezConsole.dll
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\bin\Debug\net6.0\XadrezConsole.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\XadrezConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\XadrezConsole.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\XadrezConsole.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\XadrezConsole.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\XadrezConsole.dll
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\refint\XadrezConsole.dll
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\XadrezConsole.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\XadrezConsole.genruntimeconfig.cache
+C:\Users\davio\OneDrive\Área de Trabalho\xadres\Jogo-de-Xadres-CSharp\XadrezConsole\obj\Debug\net6.0\ref\XadrezConsole.dll
